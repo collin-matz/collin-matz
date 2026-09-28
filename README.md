@@ -2,8 +2,8 @@
   <h2>Hi there, I'm Collin! 👋</h2>
 </div>
 
-📒 Check out my [blog](https://collin-matz.github.io) where I post about mathematics and coding problems I find interesting!
+🔬 My research interests are in quantum computing, optimization, machine learning, and robotics.
 
-🌱 I’m currently learning about quantum computing, optimization, and machine learning
+💻 I enjoy writing programs in Python, Rust, C, and C++.
 
-⚡ Fun fact: I enjoy studying chess theory, add me on Chess.com!
+🤖 I like to build robots from scratch and am currently studying ROS and EE in my free time.
